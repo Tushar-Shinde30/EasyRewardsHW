@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hAhzQf2Rj8wNlvIxDFA7YMGyUM3sP714rWm1Cfm75IxV6qsujncgxR9OxHBKuRZZgf1R+wAos+78hTLhn5Hugw==",
+  "success": true,
+  "projectFilePath": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_JSON_3\\LINQ_HW_Task_JSON_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\bin\Debug\net8.0\File_Handling_Error_Handling.exe
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\bin\Debug\net8.0\File_Handling_Error_Handling.deps.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\bin\Debug\net8.0\File_Handling_Error_Handling.runtimeconfig.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\bin\Debug\net8.0\File_Handling_Error_Handling.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\bin\Debug\net8.0\File_Handling_Error_Handling.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Handling_Error_Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Handling_Error_Handling.AssemblyInfoInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Handling_Error_Handling.AssemblyInfo.cs
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Handling_Error_Handling.csproj.CoreCompileInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Handling_Error_Handling.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\refint\File_Handling_Error_Handling.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Handling_Error_Handling.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Handling_Error_Handling.genruntimeconfig.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\ref\File_Handling_Error_Handling.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Handling_Error_Handling.csproj.AssemblyReference.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\File_Handling_Error_Handling\obj\Debug\net8.0\File_Han.F343285B.Up2Date

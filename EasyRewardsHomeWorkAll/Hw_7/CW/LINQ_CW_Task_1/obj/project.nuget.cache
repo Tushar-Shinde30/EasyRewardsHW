@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tB3W11aqLfJTkpNuLSuNigkxNU/bmGZkUmIpZqDzadBPdK9KEhJ/18owfPa4wjx4CrIy71iNSyMY95GCRFXJHQ==",
+  "success": true,
+  "projectFilePath": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_1\\LINQ_CW_Task_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

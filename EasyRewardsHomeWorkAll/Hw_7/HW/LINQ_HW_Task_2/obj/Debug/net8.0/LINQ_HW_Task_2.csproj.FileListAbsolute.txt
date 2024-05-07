@@ -1,0 +1,17 @@
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\bin\Debug\net8.0\LINQ_HW_Task_2.exe
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\bin\Debug\net8.0\LINQ_HW_Task_2.deps.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\bin\Debug\net8.0\LINQ_HW_Task_2.runtimeconfig.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\bin\Debug\net8.0\LINQ_HW_Task_2.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\bin\Debug\net8.0\LINQ_HW_Task_2.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_Task_2.AssemblyInfoInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_Task_2.AssemblyInfo.cs
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_Task_2.csproj.CoreCompileInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_Task_2.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\refint\LINQ_HW_Task_2.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_Task_2.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_Task_2.genruntimeconfig.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\ref\LINQ_HW_Task_2.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_Task_2.csproj.AssemblyReference.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_2\obj\Debug\net8.0\LINQ_HW_.1170920C.Up2Date

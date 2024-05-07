@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D85397EE-4D84-476A-A803-3878E147484D}|..\\..\\HW\\Exception_HW_Task_6\\Exception_HW_Task_6.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\exception_hw_task_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80389E8F-C1FF-4D9C-AF08-597F2953D8A9}|..\\..\\HW\\LINQ_HW_Task_5\\LINQ_HW_Task_5.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\linq_hw_task_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A511A83A-4A0B-42BB-ACF3-97EA6E3C43C3}|..\\..\\HW\\LINQ_HW_Advanced__Task_4\\LINQ_HW_Advanced__Task_4.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\linq_hw_advanced__task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CB06B-0ACD-4042-8EF8-DA459BA40666}|..\\..\\HW\\LINQ_HW_Task_1\\LINQ_HW_Task_1.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\linq_hw_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B7A4F-9B75-49E6-9664-CB069E1EA10B}|..\\..\\HW\\LINQ_HW_Task_2\\LINQ_HW_Task_2.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\linq_hw_task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C330ED3-E3A7-433B-91F6-E89B13713924}|..\\..\\HW\\LINQ_HW_Task_JSON_3\\LINQ_HW_Task_JSON_3.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\linq_hw_task_json_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C330ED3-E3A7-433B-91F6-E89B13713924}|..\\..\\HW\\LINQ_HW_Task_JSON_3\\LINQ_HW_Task_JSON_3.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\linq_hw_task_json_3\\linq_hw_task_json_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C79305-A389-478A-A419-693B0445595C}|..\\LINQ_CW_Task_2\\LINQ_CW_Task_2.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\cw\\linq_cw_task_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476B7A4F-9B75-49E6-9664-CB069E1EA10B}|..\\..\\HW\\LINQ_HW_Task_2\\LINQ_HW_Task_2.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\linq_hw_task_2\\linq_hw_task_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C330ED3-E3A7-433B-91F6-E89B13713924}|..\\..\\HW\\LINQ_HW_Task_JSON_3\\LINQ_HW_Task_JSON_3.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\hw\\linq_hw_task_json_3\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3886147-B1DA-4C46-B415-FD091A16A968}|..\\File_Handling_Error_Handling\\File_Handling_Error_Handling.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\cw\\file_handling_error_handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1707C6AE-E4B5-4DF7-B370-41A26C686CD8}|..\\LINQ_CW_Task_3\\LINQ_CW_Task_3.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\cw\\linq_cw_task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9206C59B-FD1E-438E-906D-906C562C2D5C}|LINQ_CW_Task_1.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\cw\\linq_cw_task_1\\linq_cw_task_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9206C59B-FD1E-438E-906D-906C562C2D5C}|LINQ_CW_Task_1.csproj|solutionrelative:linq_cw_task_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9206C59B-FD1E-438E-906D-906C562C2D5C}|LINQ_CW_Task_1.csproj|d:\\easyrewardstrainingall\\easyrewardshomeworkall\\day_7\\cw\\linq_cw_task_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9206C59B-FD1E-438E-906D-906C562C2D5C}|LINQ_CW_Task_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\Exception_HW_Task_6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\HW\\Exception_HW_Task_6\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\Exception_HW_Task_6\\Program.cs",
+              "RelativeToolTip": "..\\..\\HW\\Exception_HW_Task_6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:33:25.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\HW\\LINQ_HW_Task_5\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_5\\Program.cs",
+              "RelativeToolTip": "..\\..\\HW\\LINQ_HW_Task_5\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:27:32.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Advanced__Task_4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\HW\\LINQ_HW_Advanced__Task_4\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Advanced__Task_4\\Program.cs",
+              "RelativeToolTip": "..\\..\\HW\\LINQ_HW_Advanced__Task_4\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:46:38.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LINQ_HW_Task_JSON_3.csproj",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_JSON_3\\LINQ_HW_Task_JSON_3.csproj",
+              "RelativeDocumentMoniker": "..\\..\\HW\\LINQ_HW_Task_JSON_3\\LINQ_HW_Task_JSON_3.csproj",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_JSON_3\\LINQ_HW_Task_JSON_3.csproj",
+              "RelativeToolTip": "..\\..\\HW\\LINQ_HW_Task_JSON_3\\LINQ_HW_Task_JSON_3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T14:19:17.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LINQ_HW_Task_2.csproj",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_2\\LINQ_HW_Task_2.csproj",
+              "RelativeDocumentMoniker": "..\\..\\HW\\LINQ_HW_Task_2\\LINQ_HW_Task_2.csproj",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_2\\LINQ_HW_Task_2.csproj",
+              "RelativeToolTip": "..\\..\\HW\\LINQ_HW_Task_2\\LINQ_HW_Task_2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T14:14:23.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Data.json",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_JSON_3\\Data.json",
+              "RelativeDocumentMoniker": "..\\..\\HW\\LINQ_HW_Task_JSON_3\\Data.json",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_JSON_3\\Data.json",
+              "RelativeToolTip": "..\\..\\HW\\LINQ_HW_Task_JSON_3\\Data.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T14:09:00.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_JSON_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\HW\\LINQ_HW_Task_JSON_3\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_JSON_3\\Program.cs",
+              "RelativeToolTip": "..\\..\\HW\\LINQ_HW_Task_JSON_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:00:41.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\HW\\LINQ_HW_Task_2\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_2\\Program.cs",
+              "RelativeToolTip": "..\\..\\HW\\LINQ_HW_Task_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:52:10.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LINQ_CW_Task_2\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_2\\Program.cs",
+              "RelativeToolTip": "..\\LINQ_CW_Task_2\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:19:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\HW\\LINQ_HW_Task_1\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\HW\\LINQ_HW_Task_1\\Program.cs",
+              "RelativeToolTip": "..\\..\\HW\\LINQ_HW_Task_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T13:46:02.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\File_Handling_Error_Handling\\Program.cs",
+              "RelativeDocumentMoniker": "..\\File_Handling_Error_Handling\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\File_Handling_Error_Handling\\Program.cs",
+              "RelativeToolTip": "..\\File_Handling_Error_Handling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T08:03:07.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LINQ_CW_Task_3\\Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_3\\Program.cs",
+              "RelativeToolTip": "..\\LINQ_CW_Task_3\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:30:02.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LINQ_CW_Task_1.csproj",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_1\\LINQ_CW_Task_1.csproj",
+              "RelativeDocumentMoniker": "LINQ_CW_Task_1.csproj",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_1\\LINQ_CW_Task_1.csproj",
+              "RelativeToolTip": "LINQ_CW_Task_1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T07:18:21.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\EasYRewardsTrainingAll\\EasyRewardsHomeWorkAll\\Day_7\\CW\\LINQ_CW_Task_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T06:15:33.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

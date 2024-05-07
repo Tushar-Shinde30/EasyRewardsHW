@@ -1,0 +1,17 @@
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_Task_JSON_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_Task_JSON_3.AssemblyInfoInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_Task_JSON_3.AssemblyInfo.cs
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_Task_JSON_3.csproj.CoreCompileInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\bin\Debug\net8.0\LINQ_HW_Task_JSON_3.exe
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\bin\Debug\net8.0\LINQ_HW_Task_JSON_3.deps.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\bin\Debug\net8.0\LINQ_HW_Task_JSON_3.runtimeconfig.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\bin\Debug\net8.0\LINQ_HW_Task_JSON_3.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\bin\Debug\net8.0\LINQ_HW_Task_JSON_3.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_Task_JSON_3.csproj.AssemblyReference.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_.8E13B693.Up2Date
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_Task_JSON_3.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\refint\LINQ_HW_Task_JSON_3.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_Task_JSON_3.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\LINQ_HW_Task_JSON_3.genruntimeconfig.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\LINQ_HW_Task_JSON_3\obj\Debug\net8.0\ref\LINQ_HW_Task_JSON_3.dll

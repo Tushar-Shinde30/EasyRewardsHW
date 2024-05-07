@@ -1,0 +1,17 @@
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\bin\Debug\net8.0\LINQ_CW_Task_3.exe
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\bin\Debug\net8.0\LINQ_CW_Task_3.deps.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\bin\Debug\net8.0\LINQ_CW_Task_3.runtimeconfig.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\bin\Debug\net8.0\LINQ_CW_Task_3.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\bin\Debug\net8.0\LINQ_CW_Task_3.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_Task_3.AssemblyInfoInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_Task_3.AssemblyInfo.cs
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_Task_3.csproj.CoreCompileInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_Task_3.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\refint\LINQ_CW_Task_3.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_Task_3.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_Task_3.genruntimeconfig.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\ref\LINQ_CW_Task_3.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_Task_3.csproj.AssemblyReference.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\CW\LINQ_CW_Task_3\obj\Debug\net8.0\LINQ_CW_.7B2C8D8D.Up2Date

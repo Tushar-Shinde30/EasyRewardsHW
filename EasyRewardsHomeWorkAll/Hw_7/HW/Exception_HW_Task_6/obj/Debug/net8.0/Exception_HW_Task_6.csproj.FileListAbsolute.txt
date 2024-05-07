@@ -1,0 +1,14 @@
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\bin\Debug\net8.0\Exception_HW_Task_6.exe
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\bin\Debug\net8.0\Exception_HW_Task_6.deps.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\bin\Debug\net8.0\Exception_HW_Task_6.runtimeconfig.json
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\bin\Debug\net8.0\Exception_HW_Task_6.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\bin\Debug\net8.0\Exception_HW_Task_6.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\Exception_HW_Task_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\Exception_HW_Task_6.AssemblyInfoInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\Exception_HW_Task_6.AssemblyInfo.cs
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\Exception_HW_Task_6.csproj.CoreCompileInputs.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\Exception_HW_Task_6.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\refint\Exception_HW_Task_6.dll
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\Exception_HW_Task_6.pdb
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\Exception_HW_Task_6.genruntimeconfig.cache
+D:\EasYRewardsTrainingAll\EasyRewardsHomeWorkAll\Day_7\HW\Exception_HW_Task_6\obj\Debug\net8.0\ref\Exception_HW_Task_6.dll
